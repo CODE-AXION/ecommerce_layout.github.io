@@ -864,8 +864,8 @@ body {
 .card{
 
     background-color: #f6f9ff;
-    margin-inline: 10px;
-    margin-block: 10px;
+    margin-inline: 0px;
+    margin-block: 20px;
     width: 230px !important;
     /* height: 100% !important; */
     height: 350px !important;
